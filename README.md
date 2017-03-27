@@ -1,2 +1,2 @@
 # Project
-PHP Project
+PHP Project Initialized
